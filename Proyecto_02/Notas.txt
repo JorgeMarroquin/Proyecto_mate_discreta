@@ -1,0 +1,3 @@
+Ese es el proyecto actualizado.
+El archivo Prueba merge.py tiene la funcion merge_sort son y sin paralelización
+con un retraso de tiempo, para poder ver la diferencia.
