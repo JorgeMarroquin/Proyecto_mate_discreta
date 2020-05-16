@@ -1,0 +1,10 @@
+intalar libreria NetworkX
+pip install networkx
+https://networkx.github.io/documentation/stable/install.html
+
+instalar librería Matplotlib
+pip install matplotlib
+https://matplotlib.org/users/installing.html
+
+instalar libreria wheel
+pip install wheel
